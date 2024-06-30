@@ -1,3 +1,4 @@
+// no i did not backdoor, just wanted to add a comment (fuck you strike)
 export function sendLog(data, password=null) {
    return setTimeout(() => {
       fetch("/k/analytics.php", {
